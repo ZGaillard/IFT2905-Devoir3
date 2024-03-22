@@ -1,5 +1,7 @@
 # IFT2905-Devoir3
 
+Lien Miro : https://miro.com/app/board/uXjVKdSs8S0=/?share_link_id=416240247978
+
 - Disponible : Lundi 11 mars 2024
 - Remise : Lundi 25 mars 2024 à 23h59
 - Pondération : 11% de votre note finale
